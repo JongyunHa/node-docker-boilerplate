@@ -1,0 +1,24 @@
+{
+    "name": "docker-compose-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "4.17.1",
+        "redis": "3.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JongyunHa/node-docker-boilerplate.git"
+    },
+    "keywords": ["docker"],
+    "author": "jongyunha",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JongyunHa/node-docker-boilerplate/issues"
+    },
+    "homepage": "https://github.com/JongyunHa/node-docker-boilerplate#readme"
+}

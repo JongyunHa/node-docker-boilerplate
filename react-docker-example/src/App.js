@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          react-docker
+          Learn react
         </a>
       </header>
     </div>
